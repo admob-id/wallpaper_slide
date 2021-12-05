@@ -1,0 +1,43 @@
+{
+  "timeShowAds": 10,
+  "timeShowAdsOpenApp": 120000,
+  "adsmodel": [
+    {
+      "priority": "GOOGLE",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "rewared": "ca-app-pub-3940256099942544/5224354917",
+      "openApp":"",
+      "isShowAds": true
+    },
+    {
+      "priority": "FACEBOOK",
+      "inter": "YOUR_PLACEMENT_ID",
+      "banner": "YOUR_PLACEMENT_ID",
+      "native": "YOUR_PLACEMENT_ID",
+      "rewared": "YOUR_PLACEMENT_ID",
+      "openApp":"YOUR_PLACEMENT_ID",
+      "isShowAds": true
+    }
+  ],
+  "priorities": ["GOOGLE", "FACEBOOK"],
+  "product": ["pqoduct_id1", "pqoduct_id2", "pqoduct_id3"],
+  "apps": [
+    {
+      "packageName": "com.minecrafts.addons.skins.textture",
+      "appName": "Add-On|Texture for Minecraft PE (MCPE)",
+      "appDes": "Collection of over 2000 awesome addons for Minecraft (Pocket edition)",
+      "appThumbnail": "https://play-lh.googleusercontent.com/jbK5VNwo826kf5wpK2xGETdyfXeSfr050UK60NV1MXHsrkbrsGIqsL_wwCVNRTEvDco=s500-rw",
+      "appImages": [
+        "https://play-lh.googleusercontent.com/4AqbEoIqxasb5Gl23jOfFSr1dTDFsr76Th8YFdrKi8JPdAHSWtbL5U7MFWukr1Hr_cE=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/RrXGRp8uE6gmF-3Wdv02ozopvLd7e4yeYg2WxsqeWscJmoDzjFNFw7MEj63yX1ST39w=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/UvxXZjI5Fh17sVqMcxJDMSS2zQswiQuzBswZ7l2eWOpZZAASr5551_i7LEnI_gVpots=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/A-FyNWv6DEh8E2L97YwlnyPpsik5SUYArJUHxaea62l-RoelMB-S-bCn0A9Rh-3e0rs=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/IIy6dXrSq1ZJuLWQ6vUzC7wJ97SX3-otAdprDoxNuNqKKDktt2508TnppUnw44uNNw=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/pdNX6igMbWYEOrEIPp4C2il9CXjzkE9_ym7zwD_FnPdZPQjH_hX9xIkjF4Vj5EqAqg=w720-h310-rw",
+        "https://play-lh.googleusercontent.com/6uiTFp7P4a-wVO1k5_Q5IF8DtRSNsQS1tcEuoHfcYTiBGQ4dnKSFf4IZ7OvfO2eoqIA=w720-h310-rw"
+      ]
+    }
+  ]
+}
