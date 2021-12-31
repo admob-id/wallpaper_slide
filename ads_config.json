@@ -4,11 +4,11 @@
   "adsmodel": [
     {
       "priority": "GOOGLE",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-5094379323096711/5271248250",
+      "banner": "ca-app-pub-5094379323096711/6180348704",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "rewared": "ca-app-pub-3940256099942544/5224354917",
-      "openApp":"",
+      "openApp":"ca-app-pub-5094379323096711/9018921579",
       "isShowAds": true
     }
   ],
